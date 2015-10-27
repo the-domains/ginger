@@ -1,0 +1,14 @@
+layout_spectrum: 0.1573576
+color:
+  saturation: 0.8609022
+  brandStrength: 0.245435
+  lightness: 0.8136413
+  brandColors:
+    - '#370605'
+    - '#C6BC6F'
+    - '#5C4B30'
+    - '#42806F'
+    - '#EA1755'
+  rhythmicContrast: 0.7996778
+typography_spectrum: 0.7867884
+name: Ginger
