@@ -1,3 +1,16 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.7867884
 color:
   saturation: 0.8609022
   brandStrength: 0.245435
@@ -9,18 +22,5 @@ color:
     - '#42806F'
     - '#EA1755'
   lightness: 0.8136413
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-layout_spectrum: 0.1573576
-typography_spectrum: 0.7867884
+layout_spectrum: 0.9930182
 name: Ginger
